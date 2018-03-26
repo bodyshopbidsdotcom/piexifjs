@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/bodyshopbidsdotcom/piexifjs/issues"
   },
-  "homepage": "https://github.com/bodyshopbidsdotcom/piexifjs"
+  "homepage": "https://github.com/bodyshopbidsdotcom/piexifjs",
+  "private": false
 }
